@@ -6,3 +6,5 @@ Mod inspired by my friend's private server.
 I tried to make this mod a bit serious but failed in some places.
 
 *Mod includes few swear words*
+
+Modrinth: https://modrinth.com/mod/the-ghostlands
